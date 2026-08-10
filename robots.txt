@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: ruletka-na-realnye-dengi.github.io
+Sitemap: https://ruletka-na-realnye-dengi.github.io/sitemap.xml
